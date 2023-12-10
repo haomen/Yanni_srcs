@@ -1,0 +1,3 @@
+/workspaces/Yanni_srcs/github_build_cpp/build/CMakeFiles/rebuild_cache.dir
+/workspaces/Yanni_srcs/github_build_cpp/build/CMakeFiles/edit_cache.dir
+/workspaces/Yanni_srcs/github_build_cpp/build/CMakeFiles/simple_example.dir
